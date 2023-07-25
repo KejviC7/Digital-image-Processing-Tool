@@ -1,0 +1,10 @@
+slope.pgm slope_althiststretch.pgm althistostretch 3 50 50 150 150 0 255 250 50 200 150 0 255 50 350 400 400 0 255
+slope.pgm slope_histothres.pgm histothres 3 50 50 150 150 170 0 255 250 50 200 150 210 30 235 50 350 400 400 230 0 255
+floor.pgm floor_althiststretch.pgm althistostretch 3 50 30 200 150 0 255 50 200 110 210 0 255 200 200 150 150 40 180
+floor.pgm floor_histothres.pgm histothres 3 50 30 200 150 150 0 255 50 200 110 210 180 0 255 200 200 150 150 180 40 180
+pen.ppm pen_percchastrech.ppm percchastrech 3 50 50 150 100 R 20 100 50 200 150 80 B 50 200 50 350 150 100 G 0 255
+pen.ppm pen_rgbstretch.ppm rgbstretch 3 50 50 150 100 R 20 100 50 200 150 80 R 0 255 50 350 150 100 R 50 240
+pen.ppm pen_istretch.ppm istretch 3 50 50 150 100 I 20 100 50 200 150 80 I 50 200 50 350 150 100 I 0 255
+pen.ppm pen_hstretch.ppm hstretch 3 50 50 150 100 H 0 360 50 200 150 80 H 50 200 50 350 150 100 H 50 360
+pen.ppm pen_sstretch.ppm sstretch 3 50 50 150 100 S 40 80 50 200 150 80 S 50 90 50 350 150 100 S 50 60
+pen.ppm pen_fullhsistretch.ppm fullhsistretch 3 50 50 150 100 0 360 0 100 0 255 50 200 150 80 0 360 0 100 0 255 50 350 150 100 0 360 0 100 0 255

@@ -1,0 +1,13 @@
+tree.jpg tree_sobel3_3roi.jpg opencv sobel3 3 100 100 150 150 450 100 150 150 280 280 70 70
+tree.jpg tree_sobel5_3roi.jpg opencv sobel5 3 100 100 150 150 450 100 150 150 280 280 70 70
+flower.jpg flower_coloredge3_3roi_hsv.jpg opencv coloredge3 3 100 100 150 150 300 100 150 150 280 280 70 70
+flower.jpg flower_coloredge5_3roi_hsv.jpg opencv coloredge5 3 100 100 150 150 300 100 150 150 280 280 70 70
+tree.jpg tree_binaryedge_3roi.jpg opencv binaryedge 3 100 100 150 150 450 100 150 150 280 280 70 70
+wheel.jpg wheel_binaryedge_direction.jpg opencv direction_binaryedge 1 0 0 300 300
+tree.jpg tree_cannycv_3roi.jpg opencv cannycv 3 100 100 150 150 450 100 150 150 280 280 70 70
+tree.jpg tree_histoeq_3roi.jpg opencv histoeq 3 100 100 150 150 450 100 150 150 280 280 70 70
+tree.jpg tree_cannyhistoeq_3roi.jpg opencv cannyhistoeq 3 100 100 150 150 450 100 150 150 280 280 70 70
+tree.jpg tree_otsucv_3roi.jpg opencv otsucv 3 100 100 150 150 450 100 150 150 280 280 70 70
+tree.jpg tree_otsuhisto_3roi.jpg opencv otsuhisto 3 100 100 150 150 450 100 150 150 280 280 70 70
+barcode.jpg barcode_scanner.jpg opencv QRcode 
+barcode.jpg barcode_equalized_scanner.jpg opencv QRcodequl 
